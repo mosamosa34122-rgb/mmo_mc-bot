@@ -1,0 +1,12 @@
+{
+  "name": "mmo-bot",
+  "version": "1.0.0",
+  "description": "A static movement Minecraft bot with custom skin and display name support.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "host": "play.server.com",
+  "port": 25565,
+  "version": false,
+  "auth": "offline",
+  "username": "BaseBotName",
+  "skinName": "skinName",
+  "displayName": "CustomDisplayNick"
+}
