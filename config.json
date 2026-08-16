@@ -1,9 +1,9 @@
 {
-  "host": "play.server.com",
-  "port": 25565,
+  "host": "vipcraft0.falix.me",
+  "port": 20953,
   "version": false,
   "auth": "offline",
-  "username": "BaseBotName",
+  "username": "Bot",
   "skinName": "skinName",
   "displayName": "CustomDisplayNick"
 }
