@@ -1,9 +1,9 @@
 {
   "host": "vipcraft0.falix.me",
   "port": 20953,
-  "version": false,
-  "auth": "offline",
-  "username": "Bot",
-  "skinName": "skinName",
+  "version": 1.26.20,
+  "auth": "online",
+  "username": "BaseBotName",
+  "skinName": "Dream",
   "displayName": "CustomDisplayNick"
 }
